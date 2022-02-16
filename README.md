@@ -9,4 +9,4 @@ Installation:
  Version 7.0 uses a Windows based installer and should be better getting the software onto your computer without any errors, things will change as I find time to develop this further
 
 Compatibility:
-Windows 7, Windows 8,  Windows 10, 
+Windows 7, Windows 8,  Windows 10, (not verified for Windows 11 but should be fine)
